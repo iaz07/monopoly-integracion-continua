@@ -1,7 +1,7 @@
 package edu.ncsu.monopoly.gui;
 
 //Modificado
-//Modificado otra vez
+//Modificado otra vez otro 
 import javax.swing.JOptionPane;
 
 import edu.ncsu.monopoly.*;
